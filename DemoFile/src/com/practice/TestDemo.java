@@ -17,10 +17,13 @@ public class TestDemo {
 		  
 		if(a.equals(reverse)) {
 			
-			System.out.println("palindrome");
+			System.out.println(" String is palindrome");
+
+			
 		}else {
 			
-			System.out.println("not palindrome");
+			System.out.println(" String is not palindrome");
+
 		}
 	  }
 	
